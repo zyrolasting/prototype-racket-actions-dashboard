@@ -1,0 +1,4 @@
+#hash((123 .
+       #hash((configurations .
+          #hash((cfg1 . "1 hour, 30 minutes")
+                (cfg2 . "28 minutes"))))))
